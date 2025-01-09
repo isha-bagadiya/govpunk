@@ -8,7 +8,7 @@ const page = () => {
   return (
     <div className="w-[85%] mx-auto my-8 flex flex-col justify-center items-center">
       <Link href="/" className="w-full flex items-center justify-end my-4">
-        <p className="bg-[#B4CFEC80] w-[30px] h-[30px] md:w-[50px] md:h-[50px] flex items-center justify-center rounded-full">
+        <p className="bg-[#B4CFEC80] hover:bg-[#b4cfecd9] w-[30px] h-[30px] md:w-[50px] md:h-[50px] flex items-center justify-center rounded-full">
           <IoMdClose className="text-base md:text-xl" />
         </p>
       </Link>

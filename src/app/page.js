@@ -31,7 +31,7 @@ export default function Home() {
         ></Image>
 
         <Link href="/meet">
-          <button className="border border-[#A4C0DF] text-xs sm:text-base px-[17px] py-[7px] sm:px-[20px] sm:py-[10px] bg-[#CADDF1] rounded-xl my-3">
+          <button className="border border-[#A4C0DF] hover:bg-[#caddf19a] text-xs sm:text-base px-[17px] py-[7px] sm:px-[20px] sm:py-[10px] bg-[#CADDF1] rounded-xl my-3">
             Meet GovPunk
           </button>
         </Link>
